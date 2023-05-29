@@ -1,4 +1,8 @@
-# Turborepo starter
+# Turborepo starter with CMS Sanity
+
+run 2 app
+for next frontend localhost:3000
+run Sanity CMS localhost:3333 
 
 This is an official starter Turborepo.
 
