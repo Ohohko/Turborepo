@@ -16,7 +16,6 @@
   "name": "my-turborepo",
   "packageManager": "npm@9.5.0",
   "workspaces": [
-    "apps/*",
-    "packages/*"
+    "apps/*"
   ]
 }
