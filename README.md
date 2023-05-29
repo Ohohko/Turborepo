@@ -1,6 +1,6 @@
 # Turborepo starter with CMS Sanity
 
-run 2 app
+run 2 app's
 for next frontend localhost:3000
 run Sanity CMS localhost:3333 
 
